@@ -1,4 +1,6 @@
 # Discovery
+https://github.com/yabetsg/Enabling-the-Circular-Economy-by-Bringing-AI-to-Resale/blob/main/MeetingMinutes/ClientPartner/2023-09-28.md
+Meeting Minutes File
 # What was dicussed
 * Why use Ruby vs Java(the client and us agreed on using java over ruby)
 * They want for the first interation to be mainly UI/UX and that it is responsive(native desktop but support for phones/tablets)

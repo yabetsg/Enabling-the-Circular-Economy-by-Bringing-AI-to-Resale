@@ -11,3 +11,8 @@ The Cart is all of the clothing that the end user would like to purchase. This c
 It also contains the individual prices of the clothing and the total price of everything in the cart.
 
 PieceofClothing contains all the information pertaining to a specific piece of clothing that the end user would like to look at. Size, Price, and an add to cart button if they would like to own it.
+
+The Check-out is for after the end user decides they want to purchase the items in their cart. This is where they would input their payment information as well as the shipping details necessary to get the item.
+This also shows the costs of each item, and the total cost.
+
+DATABASE is the database of information provided by the end user tied to their account. This contains a "style profile"

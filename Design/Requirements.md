@@ -7,7 +7,7 @@
 * FR6 - The system will allow for filtration of clothing based on color and style(MEDIUM) -BR1
 * FR7 - The system will update the user's cart when the item they wanted to purchase has been sold(MEDIUM) -BR1
 * FR8 - The system will allow for infinite searching of all products(MEDIUM) -BR1
-* FR9 -The system will look color coordinated and based on Evereware's previous color scheme(LOW) -BR2
+* FR9 -The system will look color coordinated and based on Everewear's previous color scheme(LOW) -BR2
 
 # Non-Functional Requirements
 * Must provide Clickable Demo for Investor presentations(HIGH) -BR2

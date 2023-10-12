@@ -15,4 +15,8 @@ PieceofClothing contains all the information pertaining to a specific piece of c
 The Check-out is for after the end user decides they want to purchase the items in their cart. This is where they would input their payment information as well as the shipping details necessary to get the item.
 This also shows the costs of each item, and the total cost.
 
-DATABASE is the database of information provided by the end user tied to their account. This contains a "style profile"
+DATABASE is the database of information provided by the end user tied to their account. This contains a "style profile" for each user based on several, user inputed, factors.
+
+Search Terms is for direct search related items. This brings up clothing items that are related to the search terms entered and lets the user filter based on Size, Price, etc.
+
+API is the API that will be the host for each clothing item on the website. Currently there is only ShopGoodwill but there may be more added in later.

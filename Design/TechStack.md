@@ -1,7 +1,7 @@
 # Tech Stack
 
 ### back end
-* JAVA https://www.java.com/en/
+* JAVASCRIPT https://www.javascript.com/
 * MYSQL https://www.mysql.com/
 ### front end
 * IDE VS Code https://visualstudio.microsoft.com/

@@ -1,11 +1,11 @@
 # Tech Stack
 
 ### back end
-* JAVA https://www.java.com/en/
+* JAVASCRIPT https://www.javascript.com/
 * MYSQL https://www.mysql.com/
 ### front end
-* FIGMA(For design) https://www.figma.com/
-* JS REACT https://legacy.reactjs.org/
+* IDE VS Code https://visualstudio.microsoft.com/
+* JS REACT https://react.dev/
 ### online storage
 * AWS https://aws.amazon.com/?nc2=h_lg
 * GITHUB https://github.com/

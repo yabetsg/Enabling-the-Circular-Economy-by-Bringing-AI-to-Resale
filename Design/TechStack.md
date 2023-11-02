@@ -1,11 +1,18 @@
 # Tech Stack
 
-### back end
-* JAVASCRIPT https://www.javascript.com/
-* MYSQL https://www.mysql.com/
-### front end
-* IDE VS Code https://visualstudio.microsoft.com/
-* JS REACT https://react.dev/
-### online storage
-* AWS https://aws.amazon.com/?nc2=h_lg
-* GITHUB https://github.com/
+
+
+### Backend
+- *Server-side Language*: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- *Database Management*: [MySQL](https://www.mysql.com/)
+- *Database Access Toolkit*: [Prisma](https://www.prisma.io/)
+
+### Frontend
+- *Frontend Library*: [React](https://react.dev/)
+
+### Frontend/Backend IDE
+- *IDE*: [VSCode](https://code.visualstudio.com/)
+
+### Deployment
+- *Cloud Platform*: [Amazon Web Services (AWS)](https://aws.amazon.com/)
+

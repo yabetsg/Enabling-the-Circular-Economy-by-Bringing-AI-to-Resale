@@ -28,7 +28,9 @@ Everewear
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-
+- [User](Documentation/User.md)
+- [Development](Documentation/Development.md)
+- [Deployment](Documentation/Deployment.md)
 
 ## **Code Repositories**
 

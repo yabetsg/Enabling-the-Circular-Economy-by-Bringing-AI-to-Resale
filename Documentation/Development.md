@@ -1,5 +1,6 @@
 # Development Environment Manual
 
+## Installation
 
 ### Node Installation
 
@@ -78,3 +79,21 @@
 
 - app.js
     - Main file that runs the application.
+
+### Database setup
+
+ - Open up mysql workbench 
+ - Choose whatever connection instance you want and connect to it
+ - After connecting create a schema called `everewear`
+ - After creating a schema add a `.env` file inside of the prisma folder and paste in the following:
+
+    `DATABASE_URL="mysql://username:password@localhost:3306/everewear"`
+    
+- Replace `username` and  `password` with your own credentials, replace the port number to match your connection.
+
+- Navigate to the backend folder and run the following commands:
+   
+    `npx prisma generate`
+    
+    `npx prisma migrate dev`
+

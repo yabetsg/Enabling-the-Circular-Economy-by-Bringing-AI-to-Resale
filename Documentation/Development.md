@@ -6,9 +6,16 @@
 - Navigate to the project's root directory:
 
     `cd everewear`
-- Build and run the docker container by running the following command in the projects root directory:
+- Build the containers by running the following command in the projects root directory:
     
-    `docker-compose up --build`
+    `docker-compose build`
+- Run each container in order by following these commands:
+
+    `docker-compose up -d mysql`
+
+    `docker-compose up -d backend`
+
+    `docker-compose up -d frontend`
 - Open up http://localhost:8080/ in your browser
 
 
@@ -80,7 +87,7 @@
 - prisma 
     - Holds a file that define all the models for the database.
 
-- prisma/.evn
+- prisma/.env
     - Holds local database string with username and password
 
 - routes

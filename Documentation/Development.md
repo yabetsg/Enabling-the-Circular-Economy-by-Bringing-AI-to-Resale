@@ -1,4 +1,16 @@
 # Development Environment Manual
+## Docker-based Replication
+ -  Clone this repository to your local machine using the following command:
+
+    `git clone https://github.com/yabetsg/everewear.git`
+- Navigate to the project's root directory:
+
+    `cd everewear`
+- Build and run the docker container by running the following command in the projects root directory:
+    
+    `docker-compose up --build`
+- Open up http://localhost:8080/ in your browser
+
 
 ## Installation
 

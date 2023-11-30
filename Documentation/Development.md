@@ -1,15 +1,31 @@
 # Development Environment Manual
 ## Docker-based Replication
+ - Make sure you have <a href="https://docs.docker.com/get-docker/">Docker</a> installed on your machine
  -  Clone this repository to your local machine using the following command:
 
     `git clone https://github.com/yabetsg/everewear.git`
 - Navigate to the project's root directory:
 
     `cd everewear`
-- Build and run the docker container by running the following command in the projects root directory:
-    
-    `docker-compose up --build`
-- Open up http://localhost:8080/ in your browser
+
+
+- create a `.env` file inside the backend folder and paste in the following keys:
+
+    `DATABASE_URL=mysql://root:pass123@mysql:3306/everewear`
+
+    `SECRET_KEY = "secretkey"`
+
+- Build the containers by running the following command in the projects root directory:
+
+    `docker-compose build`
+- Run each container in order by following these commands:
+
+    `docker-compose up -d mysql`
+
+    `docker-compose up -d backend`
+
+    `docker-compose up -d frontend`
+- Open up http://localhost:8080/ in your browser to run the project
 
 
 ## Installation
@@ -80,7 +96,7 @@
 - prisma 
     - Holds a file that define all the models for the database.
 
-- prisma/.evn
+- prisma/.env
     - Holds local database string with username and password
 
 - routes

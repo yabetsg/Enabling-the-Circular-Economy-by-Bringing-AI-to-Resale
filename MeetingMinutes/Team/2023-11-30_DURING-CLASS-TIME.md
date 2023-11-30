@@ -26,5 +26,5 @@ Haley
 
 ## Progress Made
 * Ameco: Style profile page - Front-end
-* Haley: Mission page - Front-end
+* Haley: Account details page - Front-end
 * Yabets: Shopping page - Pulling data from database to display items on shopping page

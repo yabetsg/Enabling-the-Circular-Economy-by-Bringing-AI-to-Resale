@@ -22,9 +22,13 @@
 
     `docker-compose up -d mysql`
 
+  `docker-compose up -d frontend`
+  
     `docker-compose up -d backend`
 
-    `docker-compose up -d frontend`
+- Issue: You might face an issue where backend might fail to run, in that case you will need to open the docker app and run the backend container manually
+
+  
 - Open up http://localhost:8080/ in your browser to run the project
 
 

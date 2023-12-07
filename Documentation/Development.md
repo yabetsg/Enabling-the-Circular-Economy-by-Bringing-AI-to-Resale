@@ -45,6 +45,8 @@
 
 - Visit the MySQL official website and download the MySQL community server <a href="https://dev.mysql.com/downloads/mysql/">here</a>.
 
+### MySQL Workbench Installation 
+- Install MySQL workbench <a href="https://www.mysql.com/products/workbench/">here</a>. 
 
 
 ### Clone Repository
@@ -68,12 +70,6 @@
 
      `npm install`
 
-### Local Hosting
-
-- To run the project, execute the following command inside of the frontend directory:
-
-    `npm run dev`
-- Follow the link provided in the terminal or copy and paste it in your browser.
 
 ### Frontend File Structure
 
@@ -100,7 +96,7 @@
 - prisma 
     - Holds a file that define all the models for the database.
 
-- prisma/.env
+- .env
     - Holds local database string with username and password
 
 - routes
@@ -114,18 +110,39 @@
 
 ### Database setup
 
- - Open up mysql workbench 
- - Choose whatever connection instance you want and connect to it
+ - Open up mysql workbench
+
+<img src="./pictures/workbench.png" width="270"></img>
+
+- Press the plus icon to add a connections.
+
+<img src="./pictures/workbench_conn.png" width="270"></img>
+
+ - The test connection should look like this or you can type in your own info in the fields.
+ - Click `Store in keychain` to set a password. If you chose to follow the image above set your password to `pass123`.
+- After you have set a password press `Test connection`.
+
  - After connecting create a schema called `everewear`
- - After creating a schema add a `.env` file inside of the prisma folder and paste in the following:
+ - After creating a schema add a `.env` file the backend folder and paste in the following:
 
     `DATABASE_URL="mysql://username:password@localhost:3306/everewear"`
     
 - Replace `username` and  `password` with your own credentials, replace the port number to match your connection.
+
+- If you followed the image above then your url should look like this:
+
+    `DATABASE_URL="mysql://root:pass123@localhost:3306/everewear"`
 
 - Navigate to the backend folder and run the following commands:
    
     `npx prisma generate`
     
     `npx prisma migrate dev`
+
+### Local Hosting
+
+- To run the project, execute the following command inside of the frontend directory:
+
+    `npm run dev`
+- Follow the link provided in the terminal or copy and paste it in your browser.
 

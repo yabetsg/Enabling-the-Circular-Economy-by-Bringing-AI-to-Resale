@@ -71,42 +71,6 @@
      `npm install`
 
 
-### Frontend File Structure
-
-<img src="./pictures/frontend-structure.png" width="150"></img>
-- public
-    - Holds files like images and HTML that you want to include directly in your project without them being processed during the build.
-- assets
-    - Holds static assets like images, icons and css styles that are used in the app.
-- components
-    - Holds react components used in the app.
-- pages
-    - Holds main components that represent a single page, such as home, login, signup, etc.
-
-### Backend File Structure
-
-<img src="./pictures/backend-structure.png" width="150"></img>
-
-- controllers 
-    -  Holds files which are responsible for handling HTTP requests, connecting to the database and managing the interaction between the server and the database.
-
-- models 
-    - Holds each model in the database.
-
-- prisma 
-    - Holds a file that define all the models for the database.
-
-- .env
-    - Holds local database string with username and password
-
-- routes
-    - Holds files of each routes of the application.
-
-- views
-    - Holds temporary view templates for testing routes on the server side.
-
-- app.js
-    - Main file that runs the application.
 
 ### Database setup
 
@@ -145,4 +109,49 @@
 
     `npm run dev`
 - Follow the link provided in the terminal or copy and paste it in your browser.
+
+### Frontend File Structure
+
+<img src="./pictures/frontend-structure.png" width="150"></img>
+- public
+    - Contains files like images and HTML that you want to include directly in your project without them being processed during the build.
+
+- tests
+    - Contains unit test for the frontend
+
+- assets
+    - Contains static assets like images, icons and css styles that are used in the app.
+- components
+    - Contains react components used in the app.
+- context
+    - Contains Components that serve as data providers throughout the app
+- pages
+    - Contains main components that represent a single page, such as home, login, signup, etc.
+
+### Backend File Structure
+
+<img src="./pictures/backend-structure.png" width="150"></img>
+- tests
+    - Contains unit test for the backend
+    
+- controllers 
+    -  Holds files which are responsible for handling HTTP requests, connecting to the database and managing the interaction between the server and the database.
+
+- models 
+    - Holds each model in the database.
+
+- prisma 
+    - Holds a file that define all the models for the database.
+
+- .env
+    - Holds local database string with username and password
+
+- routes
+    - Holds files of each routes of the application.
+
+- views
+    - Holds temporary view templates for testing routes on the server side.
+
+- app.js
+    - Main file that runs the application.
 

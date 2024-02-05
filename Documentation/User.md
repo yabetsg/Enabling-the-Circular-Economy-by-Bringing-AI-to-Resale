@@ -33,10 +33,10 @@
 
 <img src="./pictures/style.png" width="270"></img>
 
-- Select your prefered styles from the drop down selection.
+- Select your preferred styles from the drop-down selection and submit once everything is filled up.
 
 <img src="./pictures/products.png" width="270"></img>
-- You will be brought to this page to where you can look at products based on style preference.
+- You will be brought to this page where you can look at products based on style preference.
 
 
 

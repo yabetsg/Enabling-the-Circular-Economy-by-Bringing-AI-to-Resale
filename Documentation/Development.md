@@ -11,7 +11,7 @@
 
 - create a `.env` file inside the backend folder and paste in the following keys:
 
-    `DATABASE_URL=mysql://root:pass123@mysql:3306/everewear`
+    `DATABASE_URL="mysql://root:pass123@mysql:3306/everewear"`
 
     `SECRET_KEY = "secretkey"`
 

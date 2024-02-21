@@ -1,19 +1,19 @@
 # Week of 2/19/2024 - 2/25/2024
 
 ## Meeting Start Time
-2024/02/20/9:30
-2024/02/20/11:00
+* 9:30AM Section: 2024/02/20/9:30
+* 11:00AM Section: 2024/02/20/11:00
 
 ## Meeting End Time
-2024/02/20/10:45
-2024/02/20/12:00
+* 9:30AM Section: 2024/02/20/10:45
+* 11:00AM Section: 2024/02/20/12:00
 
 ## Location/Medium
 Microsoft Teams
 
 ## Present
-9:30AM Section: Austen
-11:00AM Section: Ameco, Haley, Yabets
+* 9:30AM Section: Austen
+* 11:00AM Section: Ameco, Haley, Yabets
 
 ## Minute Recorder
 Haley

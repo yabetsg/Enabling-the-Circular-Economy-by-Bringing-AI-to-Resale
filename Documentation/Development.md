@@ -155,12 +155,12 @@
 - app.js
     - Main file that runs the application.
     
-### Linting:
+### Linting
 
 ### Frontend & Backend
-Navigate to the backend directory:
+Navigate to either the backend and frontend directory from root:
 
-`cd everewear`
+`cd backend` or `cd frontend`
 
 Run the following command to run linting process:
 

@@ -38,6 +38,31 @@
 <img src="./pictures/products.png" width="270"></img>
 - You will be brought to this page where you can look at products based on style preference.
 
+# Searching For Products
+<img src="./pictures/products.png" width="270"></img>
+- Click the search bar and type in a specific product you are looking for.
+
+# Buying a Product
+
+<img src="./pictures/products.png" width="270"></img>
+
+- Once on the product page add your preferred products to cart by pressing the `Add to Cart` button.
+
+<img src="./pictures/cart.png" width="270"></img>
+
+- `Buy it now` will direct you to goodwills website with the product.
+- `Remove from cart` will remove the product from cart.
+- `Continue shopping` will redirect you back to the products page.
+
+# Accessing Mission, FAQ and Contact pages
+
+<img src="./pictures/mission.png" width="270"></img>
+<img src="./pictures/faq.png" width="270"></img>
+<img src="./pictures/contact.png" width="270"></img>
+
+- Press on the Mission, FAQ or contact buttons located on the navigation tab to access them.
+
+
 
 
 

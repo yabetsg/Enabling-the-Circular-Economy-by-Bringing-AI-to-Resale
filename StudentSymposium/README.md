@@ -13,7 +13,7 @@
 ## Experiences
 
 ### Ameco Smith
-#### Stuff and things
+#### The student symposium was definitely fulfilling overall. I had the opportunity to try another teams capstone, specifically the game design one and it was very fun! It felt really good/rewarding to display the project to other people and just simply answer questions about it. Especially after working on it for two semesters.
 
 ### Austen Lowder
 #### I had a really good time at the symposium. I spoke to a lot of people one of them was named Luke. His study was about fly brains and how their serotonin auto receptors work; How they affect a maggot's growth. Fly brains look like a penis, fun fact. I also talked to Kate Swoope, whose study was on the electrical conductivity of DNA and how it could be used to make better faster computers with less electrical leak along with particular accelerators using DNA as its conductive material instead of copper for a better solution.

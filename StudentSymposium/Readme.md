@@ -7,3 +7,10 @@
 ![IMG_4088](https://github.com/yabetsg/Enabling-the-Circular-Economy-by-Bringing-AI-to-Resale/assets/112116586/934602b9-c749-4ebd-94c7-5a3030104683)
 # Adrianna Hatcher
 ![IMG_4087](https://github.com/yabetsg/Enabling-the-Circular-Economy-by-Bringing-AI-to-Resale/assets/112116586/55a20bdf-4e3f-46e2-aea0-9609f26e6234)
+
+# -----------------------------------
+
+# Experiences
+
+## Austen Lowder
+  ### I had a really good time at the symposium; I spoke to a lot of people one of them was named Luke. His study was about fly brains and how their serotonin autoreceptors work; Along with how they affect a maggots growth. Fly brains look like penis's fun fact. I also talked to Kate swoope, who's study was on the electrical conductivitiy of DNA and how it could be used to make better faster computers with less electrical leak along with partical accelators using DNA as its conductive material instead of copper for a better solution.

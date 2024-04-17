@@ -23,6 +23,3 @@
 
 ### Haley Blanton
 #### Stuff and things
-
-### Yabets Gaberworld
-#### I am stinky and did not want to go. Also fly brains look like penis's -AL

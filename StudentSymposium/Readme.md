@@ -16,7 +16,7 @@
 #### Stuff and things
 
 ### Austen Lowder
-#### I had a really good time at the symposium; I spoke to a lot of people one of them was named Luke. His study was about fly brains and how their serotonin autoreceptors work; Along with how they affect a maggots growth. Fly brains look like penis's fun fact. I also talked to Kate swoope, who's study was on the electrical conductivitiy of DNA and how it could be used to make better faster computers with less electrical leak along with partical accelators using DNA as its conductive material instead of copper for a better solution.
+#### I had a really good time at the symposium. I spoke to a lot of people one of them was named Luke. His study was about fly brains and how their serotonin autoreceptors work; How they affect a maggots growth. Fly brains look like penis's fun fact. I also talked to Kate swoope, who's study was on the electrical conductivitiy of DNA and how it could be used to make better faster computers with less electrical leak along with partical accelators using DNA as its conductive material instead of copper for a better solution.
 
 ### Brennan Hincks
 #### Stuff and things

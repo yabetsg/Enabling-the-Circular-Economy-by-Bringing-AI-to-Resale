@@ -23,3 +23,7 @@
 
 ### Haley Blanton
 #### I enjoyed going to and participating in the symposium. I thought that it was interesting to see all the projects that were going on throughout the different majors. It was exciting to be able to present our project to multiple people after all of these months of working on it, especially since they seemed genuinely interested in using the software once it launches in the Fall.
+
+### Yabets Gebrewold
+
+#### Dude, hitting up the Student Symposium was legit! Got to vibe with all sorts of dope projects. Linked up with Johnny, this cat was all about hooking up rural areas with renewable energy, super cool stuff. We bounced ideas back and forth, and I even dropped some knowledge on our project vibe. Missed out on the formal presentation scene, but the Symposium was prime for networking and swapping know-how. Left feeling totally pumped by the mad skills and passion of my fellow students.😎🤙
